@@ -14,6 +14,14 @@ Na plataforma www.tretaqui.org você se mantém anônimx e protegidx para ajudar
 
 -----------------------
 
+MULHERES UNIDAS CONTRA BOLSONARO
+
+Não precisa de mais explicações, não é?
+
+*Fonte: https://www.facebook.com/groups/308669526609023/*
+
+-----------------------
+
 ## Escolha em quem votar
 
 https://www.meuvotoserafeminista.com.br/
