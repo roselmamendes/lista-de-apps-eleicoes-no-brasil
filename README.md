@@ -40,3 +40,23 @@ https://temmeuvoto.com
 *Fonte: https://temmeuvoto.com*
 
 -----------------------
+
+## Checagem de notícias
+
+https://aosfatos.org
+
+ a agência Aos Fatos foi criada pela dupla Tai Nalon e Rômulo Collopy. Hoje, a equipe é composta por oito pessoas e conta, ainda, com rede de freelancers. No aspecto de parcerias, o projeto tem se mostrado diversificado. Neste ano, por exemplo, estão ativos acordos remunerados com o Facebook Journalism Project e o Open Knowledge Brasil. Em 2017, com foco na parte editorial, Aos Fatos produziu reportagens para quatro veículos: Brazilian Report, The Intercept Brasil, UOL e Volta Data Lab. Em 2016, o BuzzFeed Brasil publicou material produzido pela equipe de checagem.
+ 
+*Fonte: [Facebook pega a “lupa” para chegar “aos fatos” e expor a indústria de fake news](https://portal.comunique-se.com.br/facebook-pega-a-lupa-para-chegar-aos-fatos-e-expor-a-industria-de-fake-news/)*
+
+------------------------
+
+Agência Lupa
+
+https://piaui.folha.uol.com.br/lupa/
+
+A Lupa é a primeira agência de notícias do Brasil a se especializar na técnica jornalística mundialmente conhecida como fact-checking. Desde novembro de 2015, sua equipe acompanha o noticiário diário de política, economia, cidade, cultura, educação, saúde e relações internacionais para corrigir informações imprecisas e divulgar dados corretos.
+
+*Fonte: [O que é a Agência Lupa?](https://piaui.folha.uol.com.br/lupa/2015/10/15/como-selecionamos-as-frases-que-serao-checadas/)*
+
+--------------------------
