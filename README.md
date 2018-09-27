@@ -1,5 +1,6 @@
-# lista-de-apps-eleicoes-no-brasil
-Um site para encontrar soluções tecnológicas para denunciar/acompanhar/entender/escolher pessoas candidatas nessas eleições
+# se-liga-nas-eleicoes-no-brasil
+
+Por enquanto um repositório para encontrar soluções tecnológicas e/ou movimentos para denunciar/acompanhar/entender/escolher pessoas candidatas nessas eleições no Brasil.
 
 ## Contra o discurso de ódio
 
