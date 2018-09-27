@@ -42,6 +42,14 @@ https://temmeuvoto.com
 
 -----------------------
 
+https://perfilpolitico.serenata.ai/
+
+Perfil Político é uma plataforma para comparar e conhecer o histórico dos milhares de candidatos às eleições. A ferramenta ajuda as pessoas a selecionar perfis de candidatos: você pode filtrar por novatos e por velhos políticos. Pode ver como o seu estado está em termos de representatividade de gênero e raça – e se as candidaturas, de fato, representam você.
+
+*Fonte: https://perfilpolitico.serenata.ai/sobre.html*
+
+------------------------
+
 ## Checagem de notícias
 
 https://aosfatos.org
@@ -59,5 +67,19 @@ https://piaui.folha.uol.com.br/lupa/
 A Lupa é a primeira agência de notícias do Brasil a se especializar na técnica jornalística mundialmente conhecida como fact-checking. Desde novembro de 2015, sua equipe acompanha o noticiário diário de política, economia, cidade, cultura, educação, saúde e relações internacionais para corrigir informações imprecisas e divulgar dados corretos.
 
 *Fonte: [O que é a Agência Lupa?](https://piaui.folha.uol.com.br/lupa/2015/10/15/como-selecionamos-as-frases-que-serao-checadas/)*
+
+--------------------------
+Monitor de Whatsapp
+
+Este sistema mostra os conteúdos de imagem, vídeo, áudio, mensagens e links mais compartilhadas em 220 grupos públicos do WhatsApp, a cada dia. Tais grupos, são grupos abertos, acessíveis por meio de links de convite que são publicados em sites conhecidos bem como em diversas redes sociais como Facebook e Twitter. Dessa forma, esse sistema permite uma visão de quais imagens, memes e notícias no formato de mídia foram mais frequentes nos chats dos brasileiros.
+
+*Fonte: http://www.monitor-de-whatsapp.dcc.ufmg.br/*
+
+--------------------------
+ChecaZap
+
+Durante os meses anteriores à eleição presidencial, os estudantes da Escola de Jornalismo da Énois, em São Paulo, e os jovens do data_labe, no Rio, farão a checagem semanal de fatos e boatos que podem impactar no processo eleitoral, distribuídos por suas redes de Whatsapp – majoritariamente jovens e periféricas.
+
+*Fonte: https://enoisconteudo.com.br/checazap/*
 
 --------------------------
